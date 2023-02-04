@@ -20,7 +20,7 @@
     "@0xcert/wanchain-http-provider": "2.0.0-beta5",
     "@nuxtjs/axios": "^5.9.5",
     "@nuxtjs/toast": "^3.3.0",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.16.0",
     "vee-validate": "^3.2.5",
     "qrcode-with-logos": "1.0.1"
   },
